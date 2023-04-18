@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(58, 104, 104);
+}
+.container {
+    width: 595px;
+    height: 595px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+.box:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.box1 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 0px;
+    border-style: groove;
+    border-color: black;
+}
+.box2 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 201px;
+    border-style: groove;
+    border-color: black;
+}
+.box3 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 402px;
+    border-style: groove;
+    border-color: black;
+}
+.box4 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 0px;
+    bottom: 203px;
+    border-style: groove;
+    border-color: black;
+}
+.box5 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 201px;
+    bottom: 203px;
+    border-style: groove;
+    border-color: black;
+}
+.box6 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 194px;
+    left: 402px;
+    bottom: 203px;
+    border-style: groove;
+    border-color: black;
+}
+.box7 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 196px;
+    left: 0px;
+    bottom: 0px;
+    border-style: groove;
+    border-color: black;
+}
+.box8 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 196px;
+    left: 201px;
+    bottom: 0px;
+    border-style: groove;
+    border-color: black;
+}
+.box9 {
+    position: absolute;
+    background-color: rgb(63, 165, 42);
+    width: 194px;
+    height: 196px;
+    left: 402px;
+    bottom: 0px;
+    border-style: groove;
+    border-color: black;
+}
+p {
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 100px;
+}
+label {
+    font-size: 50px;
+}
